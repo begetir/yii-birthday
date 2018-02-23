@@ -1,0 +1,21 @@
+{
+    "name": "beget/yii2-birthday",
+    "description": "happy birthday extension for yii framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Mohamad Kazem Lotfi Khalfe Badam",
+            "email": "tameshki.ir@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "beget\\birthday\\": ""
+        }
+    }
+}
