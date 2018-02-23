@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist beget/yii2-birthday "*"
+php composer.phar require --prefer-dist beget/yii2-birthday "dev-master"
 ```
 
 or add
 
 ```
-"beget/yii2-birthday": "*"
+"beget/yii2-birthday": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
